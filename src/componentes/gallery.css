@@ -1,0 +1,18 @@
+.gallery{
+    border: 2px solid #f3f3f3;
+    border-radius: 10px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.campoProfile{
+    display: flex;
+}
+.profile img{
+    max-width: 300px;
+    margin: 1rem;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
